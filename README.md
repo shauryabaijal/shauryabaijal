@@ -50,6 +50,21 @@
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Linux-F9AB00?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;&nbsp;
 
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shauryabaijal&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shauryabaijal&theme=default&hide_border=true)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shauryabaijal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shauryabaijal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 ## Connect with me:
 
 <p align="center">
