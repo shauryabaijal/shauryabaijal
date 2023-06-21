@@ -9,12 +9,13 @@
 </div>
 
 
-<h1> Hello There!!!!     I am Shaurya Baijal  </h1>
+<h1> Hello There!!!!  I am Shaurya Baijal  </h1>
 
 
 ## About Me
 
-- I am currently studying in the prefinal year of my college in the BTech Computer Science Engineering branch with an overall CGPA of 9.39
+- I am currently studying in the prefinal year of my college in the BTech Computer Science Engineering with specialization in ( Artificial Intelligence and Machine 
+  learning branch ) branch with an overall CGPA of 9.39
 - I am an Artificial Intelligence and Cybersecurity Research Intern at IIT BOMBAY CSE Department (IITB trust lab) 
 - I have also completed Agile Virtual Experience Program, JP Morgan Chase & Co
 - I have received 100 Days Badge 2022 on Leetcode 
