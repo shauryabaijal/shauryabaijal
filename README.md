@@ -26,6 +26,8 @@
 - Additionally, I have actively participated in various hackathons and coding competitions, which have helped me to develop my technical skills and gain practical experience.
 - I am always open to collaborating on projects and innovative ideas.
 - ✉️ &nbsp;You can shoot me an email at baijalshaurya@gmail.com! I'll try to respond as soon as I can.
+- ⚡ Fun fact: I'm 👨🏻‍💻 by :sunny: and :guitar: by :full_moon_with_face:
+  
 
 ### My Tech Stack:
 
