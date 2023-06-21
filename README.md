@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shaurya Baijal</h1> 
+<h1 align="center">Hey, I'm Shaurya Baijal 👋 </h1> 
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
 
@@ -9,20 +9,22 @@
 </div>
 
 
-<h1> Hello There!!!!     I am Shaurya Baijal </h1>
+<h1> Hello There!!!!     I am Shaurya Baijal  </h1>
 
 
 ## About Me
 
-- I am currently studying in prefinal year of my college in BTech Computer Science Engineering branch with an overall CGPA of 9.39
+- I am currently studying in the prefinal year of my college in the BTech Computer Science Engineering branch with an overall CGPA of 9.39
 - I am an Artificial Intelligence and Cybersecurity Research Intern at IIT BOMBAY CSE Department (IITB trust lab) 
 - I have also completed Agile Virtual Experience Program, JP Morgan Chase & Co
 - I have received 100 Days Badge 2022 on Leetcode 
-- I am 3 star on codechef with Max rating (1689) 
-- I have received Global rank 60 out of 25k competitive programmers in CodeChef Starters 55 contest.
+- I am 3 stars on CodeChef with a Max rating (of 1689) 
+- I have received a Global rank of 60 out of 25k competitive programmers in CodeChef Starters 55 contest.
 - I am a Former Operations Associate Intern, Tech Analogy
 - As a young and ambitious computer science student, I have always been fascinated by the fields of AI, ML
 - Additionally, I have actively participated in various hackathons and coding competitions, which have helped me to develop my technical skills and gain practical experience.
+- I am always open to collaborating on projects and innovative ideas.
+- ✉️ &nbsp;You can shoot me an email at baijalshaurya@gmail.com! I'll try to respond as soon as I can.
 
 ### My Tech Stack:
 
