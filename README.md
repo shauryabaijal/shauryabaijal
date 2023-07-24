@@ -15,7 +15,7 @@
 ## About Me
 
 - I am currently studying in the final year of my college in the BTech Computer Science Engineering with a specialization in ( Artificial Intelligence and Machine 
-  learning ) branch with an overall CGPA of 9.39
+  learning ) branch with an overall CGPA of 9.3
 - I am an Artificial Intelligence and Cybersecurity Research Intern at IIT BOMBAY CSE Department (IITB trust lab) 
 - I have also completed Agile Virtual Experience Program, JP Morgan Chase & Co
 - I have received 100 Days Badge 2022 on Leetcode 
