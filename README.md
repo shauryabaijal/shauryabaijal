@@ -73,7 +73,11 @@
 <p align="center">
 	<a href=https://github.com/shauryabaijal><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
 	<a href=https://www.linkedin.com/in/shaurya-baijal-275630203/><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
-	
+	<h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/shaurya-baijal-275630203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://leetcode.com/baijalshaurya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  </p>
 	
 	
 </p>
