@@ -1,9 +1,11 @@
 <p align="center">
 <img align="center" alt="coding" width="170" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 </p>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> />! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h2 align="center">Hey, I'm Shaurya Baijal 👋🙂😍😃😊🦚🕉️🕉️🦚🦚🕉️🕉️🦚🦚🕉️🕉️🦚🦚🕉️🕉️🦚🦚🕉️🕉️🦚🙂😍😃😊</h2>
 
 <div align="center"> 
-<h1 align="center">Hey, I'm Shaurya Baijal 👋🙂😍😃😊🦚🕉️🕉️🦚🦚🕉️🕉️🦚🦚🕉️🕉️🦚🦚🕉️🕉️🦚🦚🕉️🕉️🦚🙂😍😃😊 </h1> 
+
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
 
